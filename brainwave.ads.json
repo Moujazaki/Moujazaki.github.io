@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "open_ai_key" : "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",
+            "open_ai_key" : "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",
             
             "int_interval" : 2,
             "activate_ads" : "true",
